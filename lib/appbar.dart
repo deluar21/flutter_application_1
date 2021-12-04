@@ -56,19 +56,20 @@ class _MyAppbarState extends State<MyAppbar> {
               color: Colors.cyanAccent,
             ),
             Container(
-              height: 40,
+              height: 20,
               width: 40,
               color: Colors.cyanAccent,
             ),
             Container(
-              height: 40,
+              height: 20,
               width: 40,
               color: Colors.cyanAccent,
             ),
             Container(
-              height: 40,
+              height: 20,
               width: 40,
               color: Colors.amber,
+              child: Text('data'),
             ),
           ],
         ),
